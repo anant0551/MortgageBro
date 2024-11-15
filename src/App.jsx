@@ -4,7 +4,7 @@ import About from './components/About';
 import Lending from './components/Lending';
 import Testimonials from './components/Testimonials';
 import ContactUs from './components/ContactUs';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
